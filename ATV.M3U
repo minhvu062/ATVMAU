@@ -1,21 +1,20 @@
-#EXTINF:-1 tvg-id="ABC News" tvg-logo="https://i.imgur.com/GpgrYCb.png",ABC News
+#EXTINF:-1 group-title="ATV" tvg-id="ABC News" tvg-logo="https://i.imgur.com/GpgrYCb.png",ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
-#EXTINF:-1 tvg-id="VTC1HD" tvg-name="VTC1 HD" tvg-logo="https://img.lichphatsong.xyz/logo/vtc1hd.jpg",VTC1 HD
-https://liveh12.vtvcab.vn/hls/ONVTC1_CL/04.m3u8
+#EXTINF:-1 group-title="ATV" tvg-id="ABC News 2" tvg-logo="https://i.imgur.com/GpgrYCb.png",ABC News
+https://c.mjh.nz/abc-news.m3u8
 
-#EXTINF:0 tvg-id="THP HD" tvg-logo="https://i.ibb.co/5vNKCyf/HAIPHONG.png",THP HD
+#EXTINF:-1 group-title="ATV" tvg-id="7 News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/7NEWS_Logo_RED_RGB.png",7 News
+https://i.mjh.nz/seven-mel.m3u8
+
+#EXTINF:-1 group-title="ATV" tvg-id="Sky News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sky-news-logo.svg/2560px-Sky-news-logo.svg.png",Sky News
+https://i.mjh.nz/sky-news-now.m3u8
+
+#EXTINF:0 group-title="ATV" tvg-id="THP HD" tvg-logo="https://i.ibb.co/5vNKCyf/HAIPHONG.png",THP HD
 https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
 
-#EXTINF:0 tvg-id="VTV1 HD" tvg-logo="http://img-z102.khanggtivi.xyz/logo/1.png",VTV1
-https://ott3.khanggtivi.xyz/source/110-142-244-121/RUUvdjB1dm9hUGZGR2RzWkpUdXM3cEN1bGliMVZlSVF1bE9yVDFicUJXZ1g2Z0JXWHA5MEZpaU9LSUg2UC9LbEdIcnExci8zR0gxN2xVT210ZFZWbkE9PQ==/1711334135/tv360/2.m3u8
-
-#EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" tvg-logo="https://khanggne.github.io/logo/MSky_TV/hbohd.png",HBO
+#EXTINF:-1 group-title="ATV" tvg-id="hbohd" tvg-name="HBO" tvg-logo="https://khanggne.github.io/logo/MSky_TV/hbohd.png",HBO
 https://ott3.khanggtivi.xyz/livetv/RUUvdjB1dm9hUGZGR2RzWkpUdXM3cEN1bGliMVZlSVF1bE9yVDFicUJXZ1g2Z0JXWHA5MEZpaU9LSUg2UC9LbEdIcnExci8zR0gxN2xVT210ZFZWbkE9PQ==/qnettv/hbo/master.m3u8
 
-#EXTINF:-1 tvg-id="cinemaxhd" tvg-name="Cinemax" tvg-logo="https://khanggne.github.io/logo/MSky_TV/cinemaxhd.png",Cinemax
+#EXTINF:-1 group-title="ATV" tvg-id="cinemaxhd" tvg-name="Cinemax" tvg-logo="https://khanggne.github.io/logo/MSky_TV/cinemaxhd.png",Cinemax
 https://ott3.khanggtivi.xyz/livetv/RUUvdjB1dm9hUGZGR2RzWkpUdXM3cEN1bGliMVZlSVF1bE9yVDFicUJXZ1g2Z0JXWHA5MEZpaU9LSUg2UC9LbEdIcnExci8zR0gxN2xVT210ZFZWbkE9PQ==/qnettv/cinemax/master.m3u8
-
-#EXTINF:-1 tvg-id="discoveryasiahd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/c6womgom_discovery-aisa_296_168.webp",Discovery Asia
-https://ott3.khanggtivi.xyz/livetv/RUUvdjB1dm9hUGZGR2RzWkpUdXM3cEN1bGliMVZlSVF1bE9yVDFicUJXZ1g2Z0JXWHA5MEZpaU9LSUg2UC9LbEdIcnExci8zR0gxN2xVT210ZFZWbkE9PQ==/qnettv/discoveryasia/master.m3u8
-
